@@ -4,5 +4,5 @@
   "apkUrl": "https://raw.githubusercontent.com/qwertasdfg77/astock-selector-updates/main/app-debug.apk",
   "apkSha256": "5cbde926d02b932f343bb9740972788e5f1e34149c27987c43fa8a415544fef4",
   "apkSize": 17650964,
-  "releaseNotes": "??????????????????? GitHub latest.json ? app-debug.apk?"
+  "releaseNotes": "Add GitHub update check button and APK update metadata."
 }
