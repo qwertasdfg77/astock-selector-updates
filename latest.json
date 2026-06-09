@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "0.1.2",
+  "versionCode": 4,
+  "versionName": "0.1.3",
   "apkUrl": "https://raw.githubusercontent.com/qwertasdfg77/astock-selector-updates/main/app-debug.apk",
-  "apkSha256": "cf3b594785fcac094ced1a2eee19cbddbb1f185d478daa2df8eec0c81b87ef12",
+  "apkSha256": "50484acb1f13fbc3606f54d1371d44fe05d24029f106eb57a208955b9a9190c3",
   "apkSize": 17650964,
-  "releaseNotes": "Add GitHub update check button and robust update metadata parsing."
+  "releaseNotes": "Discrete sliders for MA range and min amount; reuse previous results when rules are unchanged."
 }
