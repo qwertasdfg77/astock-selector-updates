@@ -2,7 +2,7 @@
   "versionCode": 5,
   "versionName": "0.1.4",
   "apkUrl": "https://raw.githubusercontent.com/qwertasdfg77/astock-selector-updates/main/app-debug.apk",
-  "apkSha256": "76c7bbf2a55014312e7d1ce796f52ab1dd5aade230874ba3236f7bcd89f394e7",
-  "apkSize": 17667348,
-  "releaseNotes": "Fix cache update write verification and target trade-date validation."
+  "apkSha256": "5f9a5cab526be2893c8591256387b3a120a9679eed13d8c7146278ba394556ae",
+  "apkSize": 17759396,
+  "releaseNotes": "Show only the version name in update status text."
 }
