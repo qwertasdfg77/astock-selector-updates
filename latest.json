@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "0.1.4",
+  "versionCode": 6,
+  "versionName": "0.1.5",
   "apkUrl": "https://raw.githubusercontent.com/qwertasdfg77/astock-selector-updates/main/app-debug.apk",
-  "apkSha256": "5f9a5cab526be2893c8591256387b3a120a9679eed13d8c7146278ba394556ae",
-  "apkSize": 17759396,
-  "releaseNotes": "Show only the version name in update status text."
+  "apkSha256": "46ffd86f333b2fcc47830c431f7d77ae73e83f4345b438adb58bf8eac178b5c5",
+  "apkSize": 17667348,
+  "releaseNotes": "Optimize local cache filtering speed."
 }
