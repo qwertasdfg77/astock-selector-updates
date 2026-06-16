@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "0.1.5",
+  "versionCode": 13,
+  "versionName": "0.2.1",
   "apkUrl": "https://raw.githubusercontent.com/qwertasdfg77/astock-selector-updates/main/app-debug.apk",
-  "apkSha256": "46ffd86f333b2fcc47830c431f7d77ae73e83f4345b438adb58bf8eac178b5c5",
-  "apkSize": 17667348,
-  "releaseNotes": "Optimize local cache filtering speed."
+  "apkSha256": "d3259f49471e797db91d1bd4bb84d7098d58943fb6024042c84a9216c42f62a4",
+  "apkSize": 17683732,
+  "releaseNotes": "AStockSelector 0.2.1 update."
 }
