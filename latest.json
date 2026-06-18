@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "0.2.4",
-  "apkUrl": "https://raw.githubusercontent.com/qwertasdfg77/astock-selector-updates/main/app-debug.apk",
-  "apkSha256": "4fc5d7dd1c0323a30cb2bfe5b4fedbc4319681f0365e350d6313df4a89fc7ef0",
-  "apkSize": 17700116,
-  "releaseNotes": "AStockSelector 0.2.4：重建缓存新增二次确认和警告，避免误触删除旧K线缓存。"
+  "versionCode": 17,
+  "versionName": "0.2.5",
+  "apkUrl": "https://raw.githubusercontent.com/qwertasdfg77/astock-selector-updates/main/app-release.apk",
+  "apkSha256": "232c47b58df94d04202fd26de14c97a3ca291b352ade9e3b1ff417769a485268",
+  "apkSize": 11645366,
+  "releaseNotes": "AStockSelector 0.2.5：请查看 GitHub Release 页面获取完整中文说明。"
 }
