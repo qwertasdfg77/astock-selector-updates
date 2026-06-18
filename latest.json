@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "0.2.1",
+  "versionCode": 14,
+  "versionName": "0.2.2",
   "apkUrl": "https://raw.githubusercontent.com/qwertasdfg77/astock-selector-updates/main/app-debug.apk",
-  "apkSha256": "d3259f49471e797db91d1bd4bb84d7098d58943fb6024042c84a9216c42f62a4",
-  "apkSize": 17683732,
-  "releaseNotes": "AStockSelector 0.2.1 update."
+  "apkSha256": "857450982e7ef8e93107760b0afbf87a4b475bd9e1c285b430cbd370afc6bbde",
+  "apkSize": 17700116,
+  "releaseNotes": "AStockSelector 0.2.2：按股票缺口增量更新缓存，新增失败队列和重建缓存按钮。"
 }
