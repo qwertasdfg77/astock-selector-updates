@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "0.2.6",
+  "versionCode": 19,
+  "versionName": "0.2.7",
   "apkUrl": "https://raw.githubusercontent.com/qwertasdfg77/astock-selector-updates/main/app-release.apk",
-  "apkSha256": "fbb3c978d593cdc4c353baa6ba0e52b62f709dbce6ba5bdaee3771941542bb22",
+  "apkSha256": "e01b91849443519fe7398ec966c63493a786be567141a1ba22943f7581b88145",
   "apkSize": 11661750,
-  "releaseNotes": "AStockSelector 0.2.6：请查看 GitHub Release 页面获取完整中文说明。"
+  "releaseNotes": "AStockSelector 0.2.7：请查看 GitHub Release 页面获取完整中文说明。"
 }
