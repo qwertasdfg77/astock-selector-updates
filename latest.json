@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "0.3.1",
+  "versionCode": 24,
+  "versionName": "0.3.2",
   "apkUrl": "https://raw.githubusercontent.com/qwertasdfg77/astock-selector-updates/main/app-release.apk",
-  "apkSha256": "3501a0a805837d2743193cd539f75be34cfd5a60885295afb57e8995afab3e40",
-  "apkSize": 11678130,
-  "releaseNotes": "AStockSelector 0.3.1：请查看 GitHub Release 页面获取完整中文说明。"
+  "apkSha256": "15a03ca97c3d7c1e389a91ef3bd836ac805478b56e9148d36fec9b5d3cb6b06b",
+  "apkSize": 11678134,
+  "releaseNotes": "AStockSelector 0.3.2：请查看 GitHub Release 页面获取完整中文说明。"
 }
